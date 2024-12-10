@@ -82,6 +82,11 @@
       "id": "playlistcore",
       "versionRange": "^1.4.2",
       "additionalData": {}
+    },
+    {
+      "id": "beatsaverplusplus",
+      "versionRange": "^0.1.6",
+      "additionalData": {}
     }
   ]
 }
